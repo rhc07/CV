@@ -37,7 +37,7 @@ For a full list of my projects, please see my GitHub.
 
 
 **BUNAC - STA Travel** (June 2017 to January 2019)  
-***Sales & Marketing Executive***
+***Sales & Marketing Specialist***
 
 • Increased sales conversion rates from 13% to 20% compared to previous year  
 • Met KPI’s, and hit quarterly and monthly sales targets on a regular basis  
