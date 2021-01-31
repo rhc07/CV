@@ -85,7 +85,7 @@ Having excellent communicational skills was essential in order to succeed in my 
 
 ## Hobbies
 
-- Travelling (Spent a few years working and travelling abroad 
+- Travelling (Spent a few years working and travelling abroad)
 - Sports (Played Rugby and Football until University)
 - Winter Sports (Learned to ski from an early age and worked through two winter seasons)
 - Film & TV
