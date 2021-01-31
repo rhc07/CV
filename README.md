@@ -19,7 +19,7 @@ For a full list of my projects, please see my GitHub.
 ## Experience
 
  **Social Misfits Media** (January 2020 to October 2020)  
-Junior Community Manager
+***Junior Community Manager***
 
 • Assist Community Managers and Senior Managers with the day-today running of social media, website and blog activity for clients.  
 • Research and schedule agreed content across clients’ channels.  
@@ -28,7 +28,7 @@ Junior Community Manager
 
 
 **Culture Whisper** (January 2019 to January 2020)  
-Sales & Marketing Executive
+***Sales & Marketing Executive***
 
 • Put together partnership proposals to keep in line with clients commercial needs  • Maintain existing brand partnership relations and accounts  
 • Brief team members in light of securing a campaign or partnership  
@@ -37,7 +37,7 @@ Sales & Marketing Executive
 
 
 **BUNAC - STA Travel** (June 2017 to January 2019)  
-Sales & Marketing Executive
+***Sales & Marketing Executive***
 
 • Increased sales conversion rates from 13% to 20% compared to previous year  
 • Met KPI’s, and hit quarterly and monthly sales targets on a regular basis  
@@ -60,8 +60,6 @@ I am naturally inquistive and I love learning. Makers Academy has only made me m
 #### - Communication
 Having excellent communicational skills was essential in order to succeed in my revious roles. At Social Misfits Media, was creating content on a daily basis and delivered powerful and consice messages on each of their social media platforms. 
 
-#### - Inquisitive
-I love learning and Makers Academy has only made me more committed to exploring development and code craftsmanship.
 
 ## Education
 
