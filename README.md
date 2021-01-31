@@ -4,7 +4,7 @@ A driven and aspiring Junior Web Developer, looking for a role to develop and ha
 
 After graduating from Southamption Solent Univiersity with a Film Studies degree, I spent a few years living and working abroad before spending some time in sales and marketing roles across London.
 
-I have recently compeleted a 12 week intensive bootcamp at Makers Academy where I was able to grow from an interested novice programmer into a confident Junior Developer. My experience at Makers Academy has given me the foundations of best coding practices, which I hope to bring into my next role. I can't wait to take on my first role within the tech industry in London where I can further expand my current coding skill-set. 
+I have recently completed a 12 week intensive bootcamp at Makers Academy where I was able to grow from an interested novice programmer into a confident Junior Developer. My experience at Makers Academy has given me the foundations of best coding practices, which I hope to bring into my next role. I can't wait to take on my first role within the tech industry in London where I can further expand my current coding skill-set. 
 
 
 ## Projects
@@ -90,5 +90,6 @@ Having excellent communicational skills was essential in order to succeed in my 
 - Winter Sports (Learned to ski from an early age and worked through two winter seasons)
 - Film & TV
 - Photography 
+- Cooking
 - Natural History (Volunteered on a Shark Conservation Project in Fiji where I was able share my knowledge about the marine ecosystems in the local schools)
 - Music (I was in a band during my late teens and re-kindled my love for my guitar during lockdown)
