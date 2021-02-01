@@ -18,7 +18,7 @@ For a full list of my projects, please see my GitHub.
 
 ## Experience
 
- **Social Misfits Media** (January 2020 to October 2020)  
+ **Social Misfits Media** (January 2020 to November 2020)  
 ***Junior Community Manager***
 
 • Assist Community Managers and Senior Managers with the day-today running of social media, website and blog activity for clients.  
