@@ -81,7 +81,7 @@ Having excellent communicational skills was essential in order to succeed in my 
 
 - Completed a course in Digital Marketing Strategy at UAL.
 - Completed a course at the London School of Photography.
-- Qualified TESOL teacher (Teaching English as a Second Language).
+- Qualified TESOL teacher (Teaching English to Speakers of Other Languages).
 
 ## Hobbies
 
