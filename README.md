@@ -9,7 +9,7 @@ I have recently completed a 12 week intensive bootcamp at Makers Academy where I
 
 ## Projects
 
-For a full list of my projects, please see my GitHub.
+For a full list of my projects, please see my [GitHub](https://github.com/rhc07).
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -65,10 +65,11 @@ Having excellent communicational skills was essential in order to succeed in my 
 
 #### Makers Academy (January 2020 to April 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
+- OOP, TDD, MVC, DDD, Agile
+- React, Node.js, Express
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- PostgreSQL
 
 #### Southampton Solent University (September 2012 to June 2015)
 
