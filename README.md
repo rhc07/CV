@@ -1,6 +1,6 @@
 ## Rorie Clarke
 
-A driven and aspiring Junior Web Developer, looking for a role to develop and harness my current programming expertise within an industry that I'm passionate about.
+A driven and aspiring Junior Software Dveloper, looking for a role to develop and harness my current programming expertise within an industry that I'm passionate about.
 
 After graduating from Southamption Solent Univiersity with a Film Studies degree, I spent a few years living and working abroad before spending some time in sales and marketing roles across London.
 
@@ -11,10 +11,11 @@ I have recently completed a 12 week intensive bootcamp at Makers Academy where I
 
 For a full list of my projects, please see my [GitHub](https://github.com/rhc07).
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                              | Description                              | Tech/tools        |
+| --------------------------------- | ---------------------------------------- | ----------------- |
+| **CookWars** ([Frontend](https://github.com/raf-swiderski/final-project-frontend) & [Backend](https://github.com/joneslee111/final-project-backend)) | A gaming app that teaches you to cook by gaining points and levelling up. | React, Node, Express & PostgreSQL. |
+| **Bank Tech Test** ([Repo](https://github.com/rhc07/bank-tech-test))         | Mocks the basic functionalities of a bank account. | Ruby              |
+| **Thermostat** ([Repo](https://github.com/rhc07/thermostat.js))             | A simple thermostat app that uses an API to display the current weather conditions around the world. | JS & JQuery |
 
 ## Experience
 
