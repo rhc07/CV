@@ -38,7 +38,7 @@ For a full list of my projects, please see my [GitHub](https://github.com/rhc07)
 
 
 **BUNAC - STA Travel** (June 2017 to January 2019)  
-***Sales & Marketing Specialist***
+***Sales Specialist***
 
 • Increased sales conversion rates from 13% to 20% compared to previous year  
 • Met KPI’s, and hit quarterly and monthly sales targets on a regular basis  
@@ -50,16 +50,16 @@ For a full list of my projects, please see my [GitHub](https://github.com/rhc07)
 ## Skills
 
 #### - Team Player
-Working within the social media and marketing industries meant I often faced different challenges that taught me to be a team player.
+Working within the social media and marketing industries meant I would often look to the team to help me overcome some of the challenges I faced.
 
 #### - Visual & Creative Thinker
 As a film studies graduate, I have learned to be creative with my problem-solving and try to look outside the box when something seems intractable.
 
 #### - Driven With A Willingness To Learn
-I am naturally inquistive and I love learning. Makers Academy has only made me more committed to exploring development and code craftsmanship. As well as learning my trade through the Makers Academy course, I have previously enrolled myself on a Digital Marketing Strategy course at UAL
+I am naturally inquistive and I love learning. Makers Academy has only made me more committed to exploring development and code craftsmanship. As well as learning my trade through the Makers Academy course, I have previously enrolled myself on a Digital Marketing Strategy course at UAL.
 
 #### - Communication
-Having excellent communicational skills was essential in order to succeed in my revious roles. At Social Misfits Media, was creating content on a daily basis and delivered powerful and consice messages on each of their social media platforms. 
+Having excellent communicational skills was essential in order to succeed in my previous roles. At Social Misfits Media, I was creating content on a daily basis and delivered powerful and consice messages on each of their social media platforms. 
 
 
 ## Education
@@ -90,8 +90,8 @@ Having excellent communicational skills was essential in order to succeed in my 
 - Travelling (Spent a few years working and travelling abroad)
 - Sports (Played Rugby and Football until University)
 - Winter Sports (Learned to ski from an early age and worked through two winter seasons)
-- Film & TV
-- Photography 
-- Cooking
+- Film & TV (A passion which I wanted to study at University)
+- Photography (Discovered photography while living abroad and enrolled myself onto a course upon my return to the UK)
+- Cooking (A hobbie which helps me wind down in the evenings... huge fan of MOB kitchen recipes)
 - Natural History (Volunteered on a Shark Conservation Project in Fiji where I was able share my knowledge about the marine ecosystems in the local schools)
 - Music (I was in a band during my late teens and re-kindled my love for my guitar during lockdown)
