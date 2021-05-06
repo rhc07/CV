@@ -1,6 +1,6 @@
 ## Rorie Clarke
 
-A driven and aspiring Junior Software Dveloper, looking for a role to develop and harness my current programming expertise within an industry that I'm passionate about.
+A driven and aspiring Junior Software Developer, looking for a role to develop and harness my current programming expertise within an industry that I'm passionate about.
 
 After graduating from Southamption Solent Univiersity with a Film Studies degree, I spent a few years living and working abroad before spending some time in sales and marketing roles across London.
 
@@ -64,7 +64,11 @@ Having excellent communicational skills was essential in order to succeed in my 
 
 ## Education
 
-#### Makers Academy (January 2020 to April 2020)
+#### Makers Academy (January 2021 to April 2021)
+
+
+
+Technologies & Tools Used:
 
 - OOP, TDD, MVC, DDD, Agile
 - React, Node.js, Express
