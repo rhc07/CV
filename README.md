@@ -9,7 +9,7 @@
 
 <div align ="center"
 
-[About Me](https://github.com/rhc07/CV/blob/master/README.md#about-me) | [Projects](https://github.com/rhc07/CV/blob/master/README.md#projects) | [Experience](https://github.com/rhc07/CV/blob/master/README.md#experience) | [Skills](https://github.com/rhc07/CV/blob/master/README.md#skills) | [Education](https://github.com/rhc07/CV/blob/master/README.md#education) | [Hobbies](https://github.com/rhc07/CV/blob/master/README.md#hobbies)
+[About Me](https://github.com/rhc07/CV/blob/master/README.md#about-me) | [Tech Stack](https://github.com/rhc07/CV/blob/master/README.md#tech-stack-) | [Projects](https://github.com/rhc07/CV/blob/master/README.md#projects) | [Experience](https://github.com/rhc07/CV/blob/master/README.md#experience) | [Skills](https://github.com/rhc07/CV/blob/master/README.md#skills) | [Education](https://github.com/rhc07/CV/blob/master/README.md#education) | [Hobbies](https://github.com/rhc07/CV/blob/master/README.md#hobbies)
 
 </div>
 
