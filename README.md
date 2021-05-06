@@ -1,4 +1,11 @@
-<h1 align="center">Rorie Clarke</h1>
+<div align="center"
+
+<img alt="Available for hire" src="https://img.shields.io/badge/Available%20for%20hire-Yes-brightgreen">  <img alt="Contact" src="https://img.shields.io/badge/How%20to%20contact%3A-Email%20or%20phone-blue">  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rhc07/CV?color=orange&label=Last%20updated">  <img alt="Status" src="https://img.shields.io/badge/Status-Watching%20a%20Film%20or%20Cooking-blueviolet">  <img alt="Status" src="https://img.shields.io/badge/Version-The%20Original-9cf"> <img alt="Status" src="https://img.shields.io/badge/Location-London%2C%20UK-red">
+
+</div>
+
+
+<h1 align="center">Rorie Clarke (<a href="mailto:rorieclarke@gmail.com">rorieclarke@gmail.com</a>)</h1>
 
 A driven and aspiring Junior Software Developer, looking for a role to develop and harness my current programming expertise within an industry that I'm passionate about.
 
