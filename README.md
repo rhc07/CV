@@ -13,7 +13,7 @@
 
 </div>
 
-## About Me
+## About Me 👋🏾
 
 A driven and aspiring Junior Software Developer, looking for a role to develop and harness my current programming expertise within an industry that I'm passionate about.
 
@@ -21,8 +21,17 @@ After graduating from Southamption Solent Univiersity with a Film Studies degree
 
 I have recently completed a 12 week intensive bootcamp at Makers Academy where I was able to grow from an interested novice programmer into a confident Junior Developer. My experience at Makers Academy has given me the foundations of best coding practices, which I hope to bring into my next role. I can't wait to take on my first role within the tech industry in London where I can further expand my current coding skill-set. 
 
+## Tech Stack 🤖
 
-## Projects
+- JavaScript (React, Node.js, Express, jQuery, Jest, Jasmine)
+- Ruby (Rails, RSpec, Sinatra, Capybara)
+- SQL (PostgreSQL, SQLlite, Tableplus)
+- HTML, CSS, Bootstrap
+- Travis CI, Circle CI
+- Heroku
+- Git, Github
+
+## Projects 👨🏾‍💻
 
 For a full list of my projects, please see my [GitHub](https://github.com/rhc07).
 
@@ -32,7 +41,7 @@ For a full list of my projects, please see my [GitHub](https://github.com/rhc07)
 | **Bank Tech Test** ([Repo](https://github.com/rhc07/bank-tech-test))         | Mocks the basic functionalities of a bank account. | Ruby              |
 | **Thermostat** ([Repo](https://github.com/rhc07/thermostat.js))             | A simple thermostat app that uses an API to display the current weather conditions around the world. | JS & JQuery |
 
-## Experience
+## Experience 🌟
 
  **Social Misfits Media** (January 2020 to November 2020)  
 ***Junior Community Manager***
@@ -62,7 +71,7 @@ For a full list of my projects, please see my [GitHub](https://github.com/rhc07)
 • Regularly writing SEO blogs and newsletters in line with BUNAC’s commercial priorities 
 
 
-## Skills
+## Skills 💡
 
 #### - Team Player
 Working within the social media and marketing industries meant I would often look to the team to help me overcome some of the challenges I faced.
@@ -77,7 +86,7 @@ I am naturally inquistive and I love learning. Makers Academy has only made me m
 Having excellent communicational skills was essential in order to succeed in my previous roles. At Social Misfits Media, I was creating content on a daily basis and delivered powerful and consice messages on each of their social media platforms. 
 
 
-## Education
+## Education 📝
 
 #### Makers Academy (January 2021 to April 2021)
 
@@ -104,7 +113,7 @@ Technologies & Tools Used:
 - Completed a course at the London School of Photography.
 - Qualified TESOL teacher (Teaching English to Speakers of Other Languages).
 
-## Hobbies
+## Hobbies 🙌🏾
 
 - Travelling (Spent a few years working and travelling abroad)
 - Sports (Played Rugby and Football until University)
