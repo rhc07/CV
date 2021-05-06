@@ -1,4 +1,4 @@
-## Rorie Clarke
+<h1 align="center">Rorie Clarke<h1>
 
 A driven and aspiring Junior Software Developer, looking for a role to develop and harness my current programming expertise within an industry that I'm passionate about.
 
