@@ -7,6 +7,14 @@
 
 <h1 align="center">Rorie Clarke (<a href="mailto:rorieclarke@gmail.com">rorieclarke@gmail.com</a>)</h1>
 
+<div align ="center"
+
+About Me | Projects | Experience | Skills | Education | Hobbies
+
+</div>
+
+## About Me
+
 A driven and aspiring Junior Software Developer, looking for a role to develop and harness my current programming expertise within an industry that I'm passionate about.
 
 After graduating from Southamption Solent Univiersity with a Film Studies degree, I spent a few years living and working abroad before spending some time in sales and marketing roles across London.
