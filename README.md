@@ -100,13 +100,6 @@ Full time software development course focusing on:
 - Participated in several Emotional Intelligence workshops, which allowed me to become a valued team player within a software development team.  
 - Attended several workshops on how to be a better ally within the workplace.    
 
-Technologies & Tools Used:
-
-- OOP, TDD, MVC, DDD, Agile
-- React, Node.js, Express
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-- PostgreSQL
 
 #### Southampton Solent University (September 2012 to June 2015)
 
