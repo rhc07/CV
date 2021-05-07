@@ -90,7 +90,15 @@ Having excellent communicational skills was essential in order to succeed in my 
 
 #### Makers Academy (January 2021 to April 2021)
 
+Full time software development course focusing on:
 
+- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles.
+- Agile principles and sprint planning.
+- Using my strong communication skills I was able to both navigate and drive effectively during regular pair programming sessions.
+- Demonstrated leadership skills during frequent stand ups and retros to determine the plan of action in several group projects.
+- Web frameworks, version control, and CI/CD to create full stack web apps.
+- Participated in several Emotional Intelligence workshops, which allowed me to become a valued team player within a software development team.  
+- Attended several workshops on how to be a better ally within the workplace.    
 
 Technologies & Tools Used:
 
