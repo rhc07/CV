@@ -73,17 +73,35 @@ For a full list of my projects, please see my [GitHub](https://github.com/rhc07)
 
 ## Skills 💡
 
-#### - Team Player
+#### - Driven With A Willingness To Learn
 Working within the social media and marketing industries meant I would often look to the team to help me overcome some of the challenges I faced.
 
-#### - Visual & Creative Thinker
-As a film studies graduate, I have learned to be creative with my problem-solving and try to look outside the box when something seems intractable.
+I am naturally inquistive and I love learning. Makers Academy has only made me more committed to exploring development and code craftsmanship. As well as learning my trade through the Makers Academy course, I have enrolled myself on an online course at Udemy and Code Academy to help me improve my TDD processes, learn Python and develop my knowledge of React.
 
-#### - Driven With A Willingness To Learn
-I am naturally inquistive and I love learning. Makers Academy has only made me more committed to exploring development and code craftsmanship. As well as learning my trade through the Makers Academy course, I have previously enrolled myself on a Digital Marketing Strategy course at UAL.
+#### - Leadership
+During my time at Social Misfits Media, I spear-headed the internal social media calendar by posting relevant, timely and eye-catching content. I was also in charge of generating performance reports, which would need to be presented to the rest of the team members at the beginning of every month.
+
+At Makers Academy I would start every retro, stand-up or pairing session with a simple check in to see how the group was feeling. This was incredibly important in creating a productive team dynamic and highlights effective **leadership**.
+
+#### - Team Player
+During my time at BUNAC, I would fill in for other team members if they were absent or busy. I would answer enquiries, assist customers and look to close the sale, even if it didn't go towards my monthly goals or targets. 
+
+I would also provide feedback to the marketing team about the satisfaction of customers with regards to the information displayed on the BUNAC website. This feedback would need to be carefully constructed and empathetic, as I would need to keep in mind that the marketing team played a major role in putting together the content on the website. 
+
+These were skills that I would go on to develop whilst at Makers Academy. I would attend Emotional Intelligence workshops on a regular basis, which stressed the importance of empathy and how to receive feedback. This allowed me to become a more valued team player in my group projects.
 
 #### - Communication
-Having excellent communicational skills was essential in order to succeed in my previous roles. At Social Misfits Media, I was creating content on a daily basis and delivered powerful and consice messages on each of their social media platforms. 
+Having excellent communicational skills was essential in order to succeed in my role at Culture Whisper. One of my main objectives was to secure commercial partnerships by liasing with potential clients or stakeholders. Since I was meeting a variety of different people on frequent occasions, I needed to tailor my language appropriately with the ambition to build and maintain a positive rapport.
+
+The Emotional Intelligence workshops at Makers Academy highlight the signficance of listening while working in a Software Development team. By listening and communicating with one another in group projects, we were able to overcome challenges more effectively with very little edge cases.
+
+#### - Problem Solver & Creative Thinker
+As a film studies graduate, I have learned to be creative with my **problem-solving** and try to look outside the box when something seems intractable. During the end of unit projects I would sometimes have to re-create sounds using household objects in order to improve acoustics on the films - slowly turning a pepper grinder can re-create the sound of crackling fire! 😱 🔥 On top of this, I would use my keen eye for **attention to detail** to correctly synchronise sounds with the correct visual effects, especially in scenes with gunfire.
+
+Makers Academy taught me how to channel my attention to detail towards unblocking myself (or my team) when presented with a problem during Software Development processes.
+
+
+
 
 
 ## Education 📝
