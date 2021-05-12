@@ -86,14 +86,14 @@ At Makers Academy I would start every retro, stand-up or pairing session with a 
 #### - Team Player
 During my time at BUNAC, I would fill in for other team members if they were absent or busy. I would answer enquiries, assist customers and look to close the sale, even if it didn't go towards my monthly goals or targets. 
 
-I would also provide feedback to the marketing team about the satisfaction of customers with regards to the information displayed on the BUNAC website. This feedback would need to be carefully constructed and empathetic, as I would need to keep in mind that the marketing team played a major role in putting together the content on the website. 
+I would also provide feedback to the marketing team about the satisfaction of customers with regards to the information displayed on the BUNAC website. This feedback would need to be carefully constructed, clear and empathetic, as I would need to keep in mind that the marketing team played a major role in putting together the content on the website. 
 
-These were skills that I would go on to develop whilst at Makers Academy. I would attend Emotional Intelligence workshops on a regular basis, which stressed the importance of empathy and how to receive feedback. This allowed me to become a more valued team player in my group projects.
+These were skills that I would go on to develop whilst at Makers Academy. I would attend Emotional Intelligence workshops on a regular basis, which stressed the importance of empathy and how to give or receive feedback. This allowed me to become a more valued team player in my group projects.
 
 #### - Communication
 Having excellent communicational skills was essential in order to succeed in my role at Culture Whisper. One of my main objectives was to secure commercial partnerships by liasing with potential clients or stakeholders. Since I was meeting a variety of different people on frequent occasions, I needed to tailor my language appropriately with the ambition to build and maintain a positive rapport.
 
-The Emotional Intelligence workshops at Makers Academy highlight the signficance of listening while working in a Software Development team. By listening and communicating with one another in group projects, we were able to overcome challenges more effectively with very little edge cases.
+The Emotional Intelligence workshops at Makers Academy highlighted the signficance of listening while working in a Software Development team. By listening and communicating with one another in group projects, we were able to overcome challenges more effectively with very little edge cases.
 
 #### - Problem Solver & Creative Thinker
 As a film studies graduate, I have learned to be creative with my **problem-solving** and try to look outside the box when something seems intractable. During the end of unit projects I would sometimes have to re-create sounds using household objects in order to improve acoustics on the films - slowly turning a pepper grinder can re-create the sound of crackling fire! 😱 🔥 On top of this, I would use my keen eye for **attention to detail** to correctly synchronise sounds with the correct visual effects, especially in scenes with gunfire.
