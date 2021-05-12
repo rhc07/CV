@@ -23,7 +23,7 @@ I have recently completed a 12 week intensive bootcamp at Makers Academy where I
 
 ## Tech Stack 🤖
 
-- JavaScript (React, Node.js, Express, jQuery, Jest, Jasmine)
+- JavaScript (React, Node.js, Express, jQuery, Jasmine)
 - Ruby (Rails, RSpec, Sinatra, Capybara)
 - SQL (PostgreSQL, SQLlite, Tableplus)
 - HTML, CSS, Bootstrap
