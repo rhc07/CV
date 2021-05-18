@@ -48,7 +48,7 @@ For a full list of my projects, please see my [GitHub](https://github.com/rhc07)
 
 • Assist Community Managers and Senior Managers with the day-today running of social media, website and blog activity for clients.  
 • Research and schedule agreed content across clients’ channels.  
-• Create, curate and manage engaging published content (images, video & written) for internal social media channels (Facebook, Instagram, Twitter and LinkedIn). 
+• Create, curate and manage engaging published content (images, video & written) for internal social media channels (Facebook, Instagram, Twitter and LinkedIn). \n
 • Developed a new content calendar for Social Misfits Media Instagram channel. Followers increased organically by 30%.
 
 
